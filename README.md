@@ -173,4 +173,4 @@ Chinmaya Vishwa Vidyapeeth
 
 ## License
 
-This project was developed for academic purposes as part of the B.Tech Mini Project (2025–2026).
+This project was developed for academic purposes as part of the B.Tech Minor Project (2025–2026).
